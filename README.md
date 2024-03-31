@@ -35,7 +35,7 @@ The course provided engaging problem sets and assignments, offering ample opport
 # Step 2 - Python to Understand the Data Science Stack
 
 ## Course Details:
-- **Course Title**: [Python for Data Science, AI & Development]([https://www.coursera.org/learn/python-for-applied-data-science-ai](https://www.coursera.org/account/accomplishments/verify/D463SBQU8WVB))
+- **Course Title**: [Python for Data Science, AI & Development](https://www.coursera.org/account/accomplishments/verify/D463SBQU8WVB)
 - **Platform**: Coursera
 
 This course provided me with invaluable insights and skills essential for navigating the intricacies of the Data Science stack, empowering me to tackle complex data challenges with confidence.
