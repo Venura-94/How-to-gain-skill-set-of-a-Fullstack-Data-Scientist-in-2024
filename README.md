@@ -20,3 +20,27 @@ With sincere appreciation for Mr. Dhaval Patel's guidance and his data science r
 
 - **Innovative Ventures**: Fueled by passion and newfound knowledge, I embarked on innovative endeavors, leaving a mark on the ever-evolving landscape of Data Science.
 
+![image](https://github.com/Venura-94/Learning-Journey/assets/137409412/7b885a51-5521-4f16-b279-08b4ea080586)
+
+# Step 1 – Python Basics
+
+To kickstart my journey, I delved into the fundamentals of Python programming, drawing inspiration from David J. Malan's [CS50's Introduction to Programming with Python](https://learning.edx.org/course/course-v1:HarvardX+CS50P+Python/home) course on edX.
+
+## Course Details:
+- **Course Title**: CS50's Introduction to Programming with Python
+- **Platform**: [edX](https://www.edx.org/)
+
+## Course Content:
+Throughout the course, I covered a wide array of Python basics, including:
+- Variables and Data Types
+- Control Structures (Loops and Conditionals)
+- Functions and Modules
+- Input and Output Handling
+- Data Structures (Lists, Dictionaries, etc.)
+
+## Practice Opportunities:
+The course provided engaging problem sets and assignments, offering ample opportunities to apply the concepts learned and hone my skills. With each practice session, I aimed to solidify my understanding and build a strong foundation in Python programming.
+
+
+![image](https://github.com/Venura-94/Learning-Journey/assets/137409412/c15b6215-4542-47af-8bff-98eb564ab52a)
+
