@@ -152,8 +152,7 @@ I immersed myself in the complex world of SQL during this era and became an expe
 To deepen my understanding and proficiency in SQL, I completed two comprehensive courses, each offering unique insights and practical applications:
 
 1. **IBM Data Science Professional Certificate - Databases and SQL for Data Science with Python**:
-   - This course equipped me with a solid foundation in database management and SQL querying techniques, tailored specifically for data science applications.
-   - [View Certificate](https://www.coursera.org/account/accomplishments/verify/9X3DZJZSGMXL)
+   - [This course equipped me with a solid foundation in database management and SQL querying techniques, tailored specifically for data science applications](https://www.coursera.org/account/accomplishments/verify/9X3DZJZSGMXL)
 
 2. **LinkedIn Learning - SQL Essential Training**:
    - Delving into essential SQL concepts and practices, this training provided hands-on experience and practical knowledge essential for navigating the data-driven world.
