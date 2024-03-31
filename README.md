@@ -32,9 +32,13 @@ The course provided engaging problem sets and assignments, offering ample opport
 
 ![image](https://github.com/Venura-94/Learning-Journey/assets/137409412/c15b6215-4542-47af-8bff-98eb564ab52a)
 
-# Step2 - Python to Understand the Data Science Stack
+# Step 2 - Python to Understand the Data Science Stack
 
-IBM Data Science Professional Certificate - Python for Data Science, AI & Development (Coursera)
-(Skills you can gain – Data Science, Data Analysis, Python Programming, NumPy, Pandas)
+## Course Details:
+- **Course Title**: [Python for Data Science, AI & Development](https://www.coursera.org/learn/python-for-applied-data-science-ai)
+- **Platform**: Coursera
+
+This course provided me with invaluable insights and skills essential for navigating the intricacies of the Data Science stack, empowering me to tackle complex data challenges with confidence.
+
 
 
