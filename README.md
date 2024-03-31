@@ -61,6 +61,77 @@ Throughout my learning journey, I crafted my own comprehensive notes, amalgamati
 
 Notion proved to be invaluable in facilitating my learning process, allowing me to synthesize complex concepts and reinforce my understanding through active note-taking and collaboration.
 
+# Step 4 - Machine Learning Theories and Fundamentals: Project-Based Learning
+
+In this phase of my journey, I delved into the practical application of Machine Learning theories and fundamentals through hands-on projects across various domains.
+
+## Regression Projects:
+1. **Impact of International HRM practices on Expatriates Job Performance (SPSS)**:
+   - Conducted regression analysis using SPSS to explore the influence of International HRM practices on expatriate job performance.
+
+2. **Wine Quality Prediction Model**:
+   - Developed a predictive model to assess the quality of wine based on various features.
+
+3. **House Price Prediction Model**:
+   - Built a model to predict house prices, utilizing regression techniques to estimate property values accurately.
+
+## Classification Project:
+- **End-to-End Loan Prediction Model with AWS Deployment using GitHub Actions**:
+   - Implemented a comprehensive loan prediction model, covering the entire deployment process on AWS via GitHub Actions.
+   - Utilized XGBoost and ensemble learning techniques (Bagging, Boosting, Stacking) to optimize model performance.
+
+## Clustering Project (K-Means):
+- **Wholesale Distributor Customer Segmentation**:
+   - Employed K-Means clustering to segment wholesale distributor customers based on purchasing behavior.
+
+## Key Project Components:
+- **Data Cleaning and Feature Engineering**:
+   - Preprocessed raw data and engineered relevant features to enhance model performance.
+
+- **Model Building and Hyperparameter Tuning**:
+   - Developed machine learning models and fine-tuned hyperparameters to optimize predictive accuracy.
+
+- **Flask Server and Web Deployment**:
+   - Implemented Flask servers as web backends for model deployment, enabling seamless integration with web applications.
+
+- **AWS Deployment and GitHub Actions**:
+   - Deployed models on AWS cloud infrastructure using GitHub Actions, ensuring efficient and automated deployment pipelines.
+
+- **Training Pipelines and Inference Pipelines**:
+   - Established robust pipelines for model training and inference, streamlining the entire machine learning workflow.
+
+Through these projects, I not only honed my technical skills but also gained invaluable experience in real-world problem-solving and project management within the realm of Machine Learning.
+
+# Courses Enabling Project Completion:
+
+To equip myself with the necessary skills and knowledge required to successfully complete the aforementioned projects, I diligently completed a series of courses offered by LinkedIn Learning and Coursera.
+
+## LinkedIn Learning Courses:
+- **[Applied Machine Learning Algorithms](https://www.linkedin.com/learning/applied-machine-learning-algorithms)**:
+   - Explored practical applications of various machine learning algorithms to solve real-world problems.
+
+- **[Applied Machine Learning Foundation](https://www.linkedin.com/learning/applied-machine-learning-foundations)**:
+   - Established a strong foundation in applied machine learning techniques, covering essential concepts and methodologies.
+
+- **[Data Science Foundation Fundamentals](https://www.linkedin.com/learning/data-science-foundations-fundamentals-14537508)**:
+   - Delved into the fundamentals of data science, gaining insights into data analysis, visualization, and interpretation.
+
+- **[Analytical Skills with Statistical Analysis](https://www.linkedin.com/learning/paths/build-your-analytical-skills-with-statistical-analysis)**:
+   - Enhanced my analytical skills through statistical analysis techniques, enabling me to derive meaningful insights from data.
+
+## Coursera Courses - Machine Learning Specialization:
+- **[What is Data Science (IBM)](https://www.coursera.org/account/accomplishments/verify/9DVB98AAXAPL)**:
+   - This course provided an overview of Data Science, laying the foundation for further exploration into the field.
+
+- **[Machine Learning Specialization](https://www.coursera.org/account/accomplishments/verify/X7X6XRBH3YU5)**:
+   - Specialized in machine learning through courses on unsupervised learning, recommenders, and reinforcement learning, gaining expertise in advanced machine learning techniques.
+
+By completing these courses, I acquired a comprehensive understanding of machine learning principles and techniques, empowering me to tackle complex projects with confidence and proficiency.
+
+I meticulously created in-depth notes for each topic using Notion, in addition to using written work and real-time annotations to monitor my progress. These notes served as my own private archive, recording important discoveries, strategies, and realizations that I had throughout the journey. Adding a few images to demonstrate my method.
+
+
+
 
 
 
