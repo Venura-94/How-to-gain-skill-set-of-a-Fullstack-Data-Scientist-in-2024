@@ -126,9 +126,70 @@ To equip myself with the necessary skills and knowledge required to successfully
 - **[Machine Learning Specialization](https://www.coursera.org/account/accomplishments/verify/X7X6XRBH3YU5)**:
    - Specialized in machine learning through courses on unsupervised learning, recommenders, and reinforcement learning, gaining expertise in advanced machine learning techniques.
 
-By completing these courses, I acquired a comprehensive understanding of machine learning principles and techniques, empowering me to tackle complex projects with confidence and proficiency.
-
 I meticulously created in-depth notes for each topic using Notion, in addition to using written work and real-time annotations to monitor my progress. These notes served as my own private archive, recording important discoveries, strategies, and realizations that I had throughout the journey. Adding a few images to demonstrate my method.
+
+![image](https://github.com/Venura-94/Learning-Journey/assets/137409412/2e44b9c5-a888-41ee-859f-a5710622e9e2)
+![image](https://github.com/Venura-94/Learning-Journey/assets/137409412/736a927d-cd5f-4904-9e72-4b02e72fca25)
+![image](https://github.com/Venura-94/Learning-Journey/assets/137409412/21b4c26e-fd9d-4276-999b-5b0e725d55b9)
+
+# Notion
+![image](https://github.com/Venura-94/Learning-Journey/assets/137409412/6c80f057-06d1-462d-8976-1c116559fb64)
+
+# Step 5 - SQL Mastery
+
+I immersed myself in the complex world of SQL during this era and became an expert in database administration and retrieval queries. "Retrieval-Queries-in-MySQL-Workbench" was one of my well-known efforts in this field, where I refined my abilities in a variety of SQL aspects.
+
+## Project Overview:
+- **Project Name**: Retrieval-Queries-in-MySQL-Workbench
+- **Focus Areas**:
+  - Basics of relational databases
+  - Essential Query Techniques: SELECT, WHERE, LIKE, DISTINCT, BETWEEN, GROUP BY, ORDER BY
+  - Advanced Query Operations: Common Table Expressions (CTE), Subqueries, Window Functions
+  - Joins: Left, Right, Inner, Full
+  - Stored procedures and functions
+
+## Courses Enabling Skill Acquisition:
+To deepen my understanding and proficiency in SQL, I completed two comprehensive courses, each offering unique insights and practical applications:
+
+1. **IBM Data Science Professional Certificate - Databases and SQL for Data Science with Python**:
+   - This course equipped me with a solid foundation in database management and SQL querying techniques, tailored specifically for data science applications.
+   - [View Certificate](https://www.coursera.org/account/accomplishments/verify/9X3DZJZSGMXL)
+
+2. **LinkedIn Learning - SQL Essential Training**:
+   - Delving into essential SQL concepts and practices, this training provided hands-on experience and practical knowledge essential for navigating the data-driven world.
+   - [Course Link](https://www.linkedin.com/learning/sql-essential-training-20685933/the-data-driven-world-19067626)
+
+By completing these courses and applying the learned concepts to real-world projects, I fortified my SQL skills, enabling me to tackle complex database tasks with confidence and proficiency.
+
+Like above never missed my notes on Notion
+![image](https://github.com/Venura-94/Learning-Journey/assets/137409412/1d9814a6-1c83-4a01-a24f-eb25fbaa9356)
+
+![image](https://github.com/Venura-94/Learning-Journey/assets/137409412/e8565a42-e997-479b-91f3-106687af2705)
+
+# Step 6 - Deep Learning Mastery
+
+In this advanced phase of my journey, I delved into the fascinating realm of Deep Learning, exploring cutting-edge techniques and methodologies to tackle complex problems.
+
+## Topics Covered:
+- **Neural Network and Deep Learning**
+- **Improving Deep Neural Networks: Hyperparameter Tuning, Regularization, and Optimization**
+- **Structuring Machine Learning Projects**
+- **Convolutional Neural Networks**
+- **Sequence Models**
+
+## Deep Learning Specialization by Andrew NG (Deeplearning.AI):
+[To gain mastery in these advanced topics, I undertook the comprehensive Deep Learning Specialization by Andrew NG offered through Deeplearning.AI. This specialization provided a structured curriculum covering a wide array of deep learning concepts and techniques](https://www.coursera.org/account/accomplishments/specialization/DCET76PRBUXQ)
+
+## Learning Approach:
+In addition to video lectures and practical assignments, I adopted a proactive approach by creating written notes to solidify my understanding of complex concepts. These notes served as a valuable resource, enabling me to clarify doubts, reinforce key concepts, and track my progress throughout the specialization.
+
+![image](https://github.com/Venura-94/Learning-Journey/assets/137409412/9dc2c7ce-9e93-4b27-b484-8297096cf4d2)
+
+By completing the Deep Learning Specialization, I not only acquired a deep understanding of advanced deep learning concepts but also developed the practical skills necessary to apply these techniques to real-world problems. This phase marked a significant milestone in my journey towards becoming a proficient data scientist proficient in leveraging the power of deep learning.
+
+
+
+
 
 
 
