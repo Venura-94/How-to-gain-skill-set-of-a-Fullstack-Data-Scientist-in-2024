@@ -26,21 +26,15 @@ With sincere appreciation for Mr. Dhaval Patel's guidance and his data science r
 
 To kickstart my journey, I delved into the fundamentals of Python programming, drawing inspiration from David J. Malan's [CS50's Introduction to Programming with Python](https://learning.edx.org/course/course-v1:HarvardX+CS50P+Python/home) course on edX.
 
-## Course Details:
-- **Course Title**: CS50's Introduction to Programming with Python
-- **Platform**: [edX](https://www.edx.org/)
-
-## Course Content:
-Throughout the course, I covered a wide array of Python basics, including:
-- Variables and Data Types
-- Control Structures (Loops and Conditionals)
-- Functions and Modules
-- Input and Output Handling
-- Data Structures (Lists, Dictionaries, etc.)
-
 ## Practice Opportunities:
 The course provided engaging problem sets and assignments, offering ample opportunities to apply the concepts learned and hone my skills. With each practice session, I aimed to solidify my understanding and build a strong foundation in Python programming.
 
 
 ![image](https://github.com/Venura-94/Learning-Journey/assets/137409412/c15b6215-4542-47af-8bff-98eb564ab52a)
+
+# Step2 - Python to Understand the Data Science Stack
+
+IBM Data Science Professional Certificate - Python for Data Science, AI & Development (Coursera)
+(Skills you can gain – Data Science, Data Analysis, Python Programming, NumPy, Pandas)
+
 
