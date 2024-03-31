@@ -39,6 +39,31 @@ The course provided engaging problem sets and assignments, offering ample opport
 - **Platform**: Coursera
 
 This course provided me with invaluable insights and skills essential for navigating the intricacies of the Data Science stack, empowering me to tackle complex data challenges with confidence.
+- (Skills you can gain – Data Science, Data Analysis, Python Programming, NumPy, Pandas)
+
+# Step 3 – Statistics and Math for Data Science
+
+To solidify my foundation in Statistics and Mathematics for Data Science, I embarked on a journey to refresh my knowledge acquired during my Engineering career. Leveraging various resources such as Khan Academy, LinkedIn Learning, and Coursera, I meticulously revisited statistical concepts and delved into courses covering linear algebra and statistics, including those offered by Deep Learning.AI.
+
+## Learning Resources:
+- **Khan Academy**: [Comprehensive tutorials and exercises for brushing up on statistical fundamentals](https://www.khanacademy.org/math/statistics-probability)
+- **LinkedIn Learning**: Engaging courses tailored to reinforce mathematical concepts essential for Data Science.
+- **Coursera (Deep Learning.AI)**: In-depth exploration of linear algebra and statistics, providing a deeper understanding of their applications in machine learning.
+- **Reading Blogs on Medium
+  
+## Approach:
+Drawing from my background as a math student, I approached these resources with a keen focus on understanding the practical applications of statistical and mathematical principles to machine learning concepts. 
+
+## Note-taking with Notion:
+Throughout my learning journey, I crafted my own comprehensive notes, amalgamating insights from various sources. Notion emerged as a powerful tool, enabling me to organize my thoughts effectively and collaborate seamlessly with my friends. Below is a glimpse of how I structured my notes using Notion:
+
+![image](https://github.com/Venura-94/Learning-Journey/assets/137409412/b213d978-792d-4bb3-bacf-9a1fe433c434)
+
+Notion proved to be invaluable in facilitating my learning process, allowing me to synthesize complex concepts and reinforce my understanding through active note-taking and collaboration.
+
+
+
+
 
 
 
