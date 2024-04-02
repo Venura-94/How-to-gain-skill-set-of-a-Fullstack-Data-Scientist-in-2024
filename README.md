@@ -1,4 +1,4 @@
-# Initial Road Map of My Self-Learning Journey to Gain Foundational Skills of a Data Scientist
+# Initial Road Map of My Self-Learning Journey to Gain Foundational Skills of a Data Scientist in 2024
 
 With sincere appreciation for Mr. Dhaval Patel's guidance and his data science roadmap at the initial stage, my transformational journey commenced on August 11, 2023. After dedicating 4.2 years to wireless engineering in a Fortune 500 company, I discovered a newfound passion for Data Science and Machine Learning, igniting a passionate pursuit of knowledge.
 
