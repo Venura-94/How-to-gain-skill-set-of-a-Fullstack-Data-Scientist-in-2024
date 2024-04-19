@@ -102,11 +102,11 @@ In this phase of my journey, I delved into the practical application of Machine 
 
 Through these projects, I not only honed my technical skills but also gained invaluable experience in real-world problem-solving and project management within the realm of Machine Learning.
 
-# Courses Enabling Project Completion:
+## Courses Enabling Project Completion:
 
 To equip myself with the necessary skills and knowledge required to successfully complete the aforementioned projects, I diligently completed a series of courses offered by LinkedIn Learning and Coursera.
 
-## LinkedIn Learning Courses:
+### LinkedIn Learning Courses:
 - **[Applied Machine Learning Algorithms](https://www.linkedin.com/learning/applied-machine-learning-algorithms)**:
    - Explored practical applications of various machine learning algorithms to solve real-world problems.
 
@@ -119,7 +119,7 @@ To equip myself with the necessary skills and knowledge required to successfully
 - **[Analytical Skills with Statistical Analysis](https://www.linkedin.com/learning/paths/build-your-analytical-skills-with-statistical-analysis)**:
    - Enhanced my analytical skills through statistical analysis techniques, enabling me to derive meaningful insights from data.
 
-## Coursera Courses - Machine Learning Specialization:
+### Coursera Courses - Machine Learning Specialization:
 - **[What is Data Science (IBM)](https://www.coursera.org/account/accomplishments/verify/9DVB98AAXAPL)**:
    - This course provided an overview of Data Science, laying the foundation for further exploration into the field.
 
@@ -132,7 +132,7 @@ I meticulously created in-depth notes for each topic using Notion, in addition t
 ![image](https://github.com/Venura-94/Learning-Journey/assets/137409412/736a927d-cd5f-4904-9e72-4b02e72fca25)
 ![image](https://github.com/Venura-94/Learning-Journey/assets/137409412/21b4c26e-fd9d-4276-999b-5b0e725d55b9)
 
-# Notion
+### Notion
 ![image](https://github.com/Venura-94/Learning-Journey/assets/137409412/6c80f057-06d1-462d-8976-1c116559fb64)
 
 # Step 5 - SQL Mastery
@@ -148,7 +148,7 @@ I immersed myself in the complex world of SQL during this era and became an expe
   - Joins: Left, Right, Inner, Full
   - Stored procedures and functions
 
-## Courses Enabling Skill Acquisition:
+### Courses Enabling Skill Acquisition:
 To deepen my understanding and proficiency in SQL, I completed two comprehensive courses, each offering unique insights and practical applications:
 
 1. **IBM Data Science Professional Certificate - Databases and SQL for Data Science with Python**:
@@ -169,14 +169,14 @@ Like above never missed my notes on Notion
 
 In this advanced phase of my journey, I delved into the fascinating realm of Deep Learning, exploring cutting-edge techniques and methodologies to tackle complex problems.
 
-## Topics Covered:
+### Topics Covered:
 - **Neural Network and Deep Learning**
 - **Improving Deep Neural Networks: Hyperparameter Tuning, Regularization, and Optimization**
 - **Structuring Machine Learning Projects**
 - **Convolutional Neural Networks**
 - **Sequence Models**
 
-## Deep Learning Specialization by Andrew NG (Deeplearning.AI):
+### Deep Learning Specialization by Andrew NG (Deeplearning.AI):
 [To gain mastery in these advanced topics, I undertook the comprehensive Deep Learning Specialization by Andrew NG offered through Deeplearning.AI. This specialization provided a structured curriculum covering a wide array of deep learning concepts and techniques](https://www.coursera.org/account/accomplishments/specialization/DCET76PRBUXQ)
 
 ## Learning Approach:
